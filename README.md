@@ -14,7 +14,7 @@ This repository contains implementations of USF-A3C Target Driven Visual Navigat
 6. Modified 5th network by only using single frame as the input.
 
 
-# The AI2Thor simulator can be found at follwing hdf5 data set. 
+# The AI2Thor simulator can be found in follwing link as a hdf5 data set:
 
 https://drive.google.com/drive/folders/1oUvIZP1GkgCwbIzsRJ-xLgiwfSonQdev?usp=sharing
 
