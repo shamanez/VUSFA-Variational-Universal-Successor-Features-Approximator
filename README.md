@@ -1,5 +1,7 @@
 # Implementation-Details---VUSFA
+
 VUSFA - https://128.84.21.199/pdf/1908.06376.pdf
+
 This repository contains implementations of USF-A3C Target Driven Visual Navigation. The discription of each model can be found in the following discription.
 
 1. Implementation is the baseline model of Deep Siamese Actor-Critic.
