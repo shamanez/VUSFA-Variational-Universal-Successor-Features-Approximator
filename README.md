@@ -1,6 +1,6 @@
 # Implementation-Details---VUSFA
 
-VUSFA - https://128.84.21.199/pdf/1908.06376.pdf
+VUSFA - https://arxiv.org/abs/1908.06376
 
 This repository contains implementations of USF-A3C Target Driven Visual Navigation. The discription of each model can be found in the following discription.
 
