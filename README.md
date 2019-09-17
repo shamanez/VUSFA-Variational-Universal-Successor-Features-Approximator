@@ -23,4 +23,4 @@ https://drive.google.com/drive/folders/1oUvIZP1GkgCwbIzsRJ-xLgiwfSonQdev?usp=sha
 
 # All trained models with checkpoints can be found in the following link:
 
-https://drive.google.com/drive/u/2/folders/1zKosfqfnuzBthmTFuZoSw5UxCWWPNjPk
+https://drive.google.com/drive/folders/1zKosfqfnuzBthmTFuZoSw5UxCWWPNjPk?usp=sharing
