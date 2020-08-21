@@ -18,9 +18,5 @@ This repository contains implementations of USF-A3C Target Driven Visual Navigat
 
 # The AI2Thor simulator can be found in follwing link as a hdf5 data set:
 
-https://drive.google.com/drive/folders/1oUvIZP1GkgCwbIzsRJ-xLgiwfSonQdev?usp=sharing
+[Simulator Scenes](http://vision.stanford.edu/yukezhu/thor_v1_scene_dumps.zip)
 
-
-# All trained models with checkpoints can be found in the following link:
-
-https://drive.google.com/drive/folders/1zKosfqfnuzBthmTFuZoSw5UxCWWPNjPk?usp=sharing
