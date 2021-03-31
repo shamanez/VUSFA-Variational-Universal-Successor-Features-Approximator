@@ -1,5 +1,6 @@
 # Implementation-Details---VUSFA
 
+# paper - [VUSFA-Variational-Universal-Successor-Features-Approximator](https://arxiv.org/abs/1908.06376) 
 
 This repository contains implementations of USF-A3C Target Driven Visual Navigation. The discription of each model can be found in the following discription.
 
